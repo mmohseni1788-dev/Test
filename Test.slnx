@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="CollectionsSearchTest/CollectionsSearchTest.csproj" Id="9e933c60-0725-4964-b180-a584c7eab159" />
   <Project Path="Test/Test.csproj" />
 </Solution>
